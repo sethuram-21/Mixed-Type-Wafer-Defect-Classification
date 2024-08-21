@@ -1,7 +1,7 @@
-**Attention-Augmented Convolutional Neural Networks for Mixed-Type Wafer Defect Classification**<br>
+<u>**Attention-Augmented Convolutional Neural Networks for Mixed-Type Wafer Defect Classification**</u><br>
 This repository contains the implementation of an Attention-Augmented Convolutional Neural Network (A2CNN) designed for the classification of mixed-type wafer defects across 38 distinct classes. The model leverages advanced attention mechanisms to enhance feature learning in both channel and spatial dimensions, ensuring robust performance even with complex defect patterns. Additionally, the focal loss function is employed to address class imbalance and reduce misclassification.<br>
 
-**Key Features:**<br>
+<u>**Key Features:**</u><br>
 
 **Dataset:** MixedWM38 wafer defect dataset, consisting of 38,000 mixed-mode wafer map defect samples.<br>
 **Model Architecture:** Attention-augmented CNN (A2CNN) incorporating both channel and spatial attention mechanisms.<br>
